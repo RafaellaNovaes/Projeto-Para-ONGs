@@ -71,8 +71,8 @@ src/
 ## Autores
 
 - **Gustavo** — [GuSprang](https://github.com/GuSprang)
-- **Rafaella**
-- **Ana Paula**
+- **Rafaella** — [Rafaella Novaes](https://github.com/RafaellaNovaes)
+- **Ana Paula** — [Ana P. Melo](https://github.com/An4PDM)
 
 ---
 
