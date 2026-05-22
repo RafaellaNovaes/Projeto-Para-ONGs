@@ -12,7 +12,7 @@ import lombok.*;
 @Builder
 public class Campanha {
 
-    private String        id;
+    private String     id;
     private String     nome;
     private String     descricao;
     private LocalDate  dataInicio;
