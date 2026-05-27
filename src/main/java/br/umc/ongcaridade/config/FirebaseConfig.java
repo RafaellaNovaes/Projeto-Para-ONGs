@@ -17,6 +17,7 @@ public class FirebaseConfig {
     @PostConstruct
     public void initialize() throws IOException {
         String credJson = System.getenv("FIREBASE_CREDENTIALS");
+        if (credJson == null || credJson.isBlank()) return;
 
         InputStream credStream = new ByteArrayInputStream(
                 credJson.getBytes(StandardCharsets.UTF_8)
